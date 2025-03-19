@@ -1,0 +1,2 @@
+- DOMAIN-SUFFIX,ip.sb
+- DOMAIN-SUFFIX,metacubex.one
